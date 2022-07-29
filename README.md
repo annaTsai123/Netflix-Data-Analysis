@@ -1,4 +1,4 @@
-![https://github.com/annaTsai123/Netflix-Data-Analysis/blob/main/images/netflixBanner1.jpeg]
+![Netflix benner](https://github.com/annaTsai123/Netflix-Data-Analysis/blob/main/images/netflixBanner1.jpeg)
 # Netflix data analysis
 This projext is to visualize netflix data, we got the data from kaggle and here is the [link](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 # Introduction:
